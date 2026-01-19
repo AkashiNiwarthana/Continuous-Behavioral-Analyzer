@@ -12,4 +12,4 @@ Mouse movement dynamics
 
 Keyboard usage patterns
 
-Each behavioral component is implemented as an independent research module, evaluated using its own dataset and machine learning–based algorithm. These modules are later integrated into a unified corporate monitoring platform.
+Each behavioral component is implemented as an independent research module, evaluated using its own dataset and machine learning–based algorithm. These modules are later integrated into a unified corporate monitoring platform..
